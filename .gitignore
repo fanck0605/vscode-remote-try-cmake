@@ -330,4 +330,7 @@ ASALocalRun/
 .mfractor/
 
 # Build output for this sample
-*.out
+build/
+
+# Visual Studio Code
+.vscode/
